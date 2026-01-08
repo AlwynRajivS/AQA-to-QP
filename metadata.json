@@ -1,0 +1,6 @@
+
+{
+  "name": "AQA Assessment Automator",
+  "description": "Smart exam generator using Vanilla JS and Gemini API.",
+  "requestFramePermissions": []
+}

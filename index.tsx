@@ -1,0 +1,1 @@
+// This file is no longer used. See index.js for the browser-compatible version.
